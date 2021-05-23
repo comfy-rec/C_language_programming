@@ -1,6 +1,4 @@
 # C_language_programming
-C_practice_simulation
-
 constant, data type, print, variable, floating point
 
 operator, if, switch
