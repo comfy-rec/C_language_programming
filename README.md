@@ -1,4 +1,4 @@
-# practice_content
+# practice_contents
 constant, data type, print, variable, floating point
 
 operator, if, switch
